@@ -1,4 +1,4 @@
-# Teste Buzu mobile
+# Teste Buzu Mobile
 
 <h1 align="center">
     <img alt="buzu-logo" title="buzu-logo" src="https://avatars.githubusercontent.com/u/104653022?s=400&u=5102762a2495ea2a49c87d1b13e0d95e0ade7337&v=4" />
@@ -28,7 +28,7 @@
 - [ ] Persista os dados de cadastro no armazenamento do telefone.
 - [ ] Utilize uma biblioteca de gerenciamento de estado. ([Redux], [Zustand], entre outras.)
 
-# Interface do desafio
+# Interface do Desafio
 
 ![Mockup Photo](./assets/Screen%20Shot%202022-08-18%20at%2013.53.49.png 'Buzu Mobile Test')
 
