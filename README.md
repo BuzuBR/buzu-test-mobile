@@ -9,7 +9,6 @@
 - [ ] Conhecimento básico de programação
 - [ ] Conhecimento básico de typescript
 - [ ] Conhecimento básico de git
-- [ ] Conhecimento básico de React
 - [ ] Conhecimento básico de React Native
 - [ ] Conhecimento básico de Flexbox
 - [ ] Conhecimento básico de Styling e Css
@@ -19,9 +18,9 @@
 ## Desafio
 
 - [ ] Crie uma aplicação com React Native onde, o usuário tem uma lista de produtos, uma tela para cadastrar novos produtos e a possibilidade de editar/excluir esses produtos
-- [ ] projeto pode ser criado utilizando a CLI do React Native ou Expo. Veja mais em https://reactnative.dev/docs/environment-setup
-- [ ] deve-se utilizar typescript
-- [ ] ao finalizar enviar link do github para análise
+- [ ] Projeto pode ser criado utilizando a CLI do React Native ou Expo. Veja mais em https://reactnative.dev/docs/environment-setup
+- [ ] Deve-se utilizar typescript
+- [ ] Ao finalizar enviar link do github para análise
 
 ## Extras
 
